@@ -10,12 +10,11 @@ Agung</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 </a>
 
+- ☕️ I’m teaching laravel and vuejs. online and offline
 
-- 🔭 I’m currently open for a new oportunity
+- 🔭 I’m currently open for a new opportunity as fullstack developer
 
 - 🌱 I’m currently develope an Inventory application using laravel
-
-- 🤝 I’m currently available for freelancing while waiting for the new career
 
 - 🌱 I’m currently learning <a href="https://go.dev" target="blank">Golang</a>
 
