@@ -23,7 +23,7 @@ Agung</a></h1>
 
 - 📫 How to reach me **upload.kurniawan@gmail.com**
 
-- 📄 Know about my experiences <a href="[https://github.com/autotrof/Me.io/blob/master/resume.pdf](https://raw.githubusercontent.com/autotrof/autotrof/main/resume-2023-04-30.pdf)" target="blank">Resume</a>
+- 📄 Know about my experiences <a download href="https://raw.githubusercontent.com/autotrof/autotrof/main/resume-2023-04-30.pdf">Resume</a>
 <br/>
 
 ### Youtube Video
