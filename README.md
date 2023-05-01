@@ -43,8 +43,17 @@ Agung</a></h1>
 - [regex-like, regular expression to implement "where like" filtering as mysql/mariadb](https://www.npmjs.com/package/@autotrof/regex-like)
 <!-- BLOG-POST-LIST:END -->
 
+### My Example Public Project For Tutorial
+
+<!-- BLOG-POST-LIST:START -->
+
+- [Aplikasi SDM](https://github.com/autotrof/sdm)
+- [Laravel Tips](https://github.com/autotrof/laravel-tips)
+- [Semantic-ui template](https://github.com/autotrof/kneon)
+<!-- BLOG-POST-LIST:END -->
+
 ---
 
 Credit: [Saurabh Chavan](https://github.com/100rabhcsmc)
 
-Last Edited on: 30/04/2023
+Last Edited on: 01/05/2023
