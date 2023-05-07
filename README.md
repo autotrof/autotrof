@@ -33,6 +33,7 @@ Agung</a></h1>
 - [Laravel insert data from multiple checkbox](https://www.youtube.com/watch?v=gXVgovWu8pE&t=4s)
 - [Laravel Count & Group By Date](https://www.youtube.com/watch?v=GFVIbuG9uA8&t=168s)
 - [Laravel Tips](https://www.youtube.com/watch?v=yY4GLuzK-fM&list=PLSRIIM_sTdZag7pPYZQj-J6DwIKXL5thU&pp=gAQB)
+- [Short Tutorial](https://www.youtube.com/watch?v=fJsJANft0IY&list=PLSRIIM_sTdZZIvEiBucSCsqYn6fudMHMn)
 <!-- BLOG-POST-LIST:END -->
 
 ### NPM Package
